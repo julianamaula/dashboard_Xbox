@@ -1,4 +1,4 @@
-# Projeto Dashboard de Vendas
+# ![painel-de-controle](https://github.com/user-attachments/assets/65fc61dc-1f6d-4684-b34b-5b33664f4e97) Projeto Dashboard de Vendas
 ![Dashboard_Xbox](https://github.com/user-attachments/assets/e25bd49b-7383-44ec-90f8-453a22d76d00)
 
 
@@ -45,7 +45,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## ![5827678](https://github.com/user-attachments/assets/7ed04c58-1567-4db8-b255-74422e5ee600) Licença
 
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/Novo-Modelo-de-Oficina?tab=MIT-1-ov-file) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/dashboard_Xbox?tab=MIT-1-ov-file) para mais detalhes.
 
 
 ## ✉️ **Contato**
