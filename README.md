@@ -43,5 +43,21 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 
 ## ![5827678](https://github.com/user-attachments/assets/7ed04c58-1567-4db8-b255-74422e5ee600) Licença
-Este projeto está licenciado sob a MIT License.
 
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/Novo-Modelo-de-Oficina?tab=MIT-1-ov-file) para mais detalhes.
+
+
+## ✉️ **Contato**
+
+💡 *Dúvidas ou sugestões? Entre em contato ou abra uma issue!* 
+
+
+![linkedin (3)](https://github.com/user-attachments/assets/591bf907-a554-42e7-81a3-c7fcc810e087)
+[LinkedIn](https://www.linkedin.com/in/juliana-de-maula)
+
+![github (2)](https://github.com/user-attachments/assets/877894f3-1f69-4c0e-8b2d-4973e8db0933)
+[GitHub](https://github.com/julianamaula)
+
+📌 **Desenvolvido com ❤️ por [Juliana de Maula](https://github.com/julianamaula)** 🚀
+Desafio [DIO.me](https://www.dio.me/)
